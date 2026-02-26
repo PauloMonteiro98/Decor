@@ -21,7 +21,7 @@ A aplicação segue o padrão de **Service Layer Pattern** (Camada de Serviços)
 ## ⚙️ Como Executar o Projeto Localmente
 
 ### Pré-requisitos
-* Node.js instalado (v18 ou superior)
+* Node.js instalado (v24.14)
 * PostgreSQL instalado e rodando localmente (ou via Docker)
 
 ### Passo a Passo
@@ -29,7 +29,7 @@ A aplicação segue o padrão de **Service Layer Pattern** (Camada de Serviços)
 1. **Clone o repositório:**
 ```bash
 git clone https://github.com/PauloMonteiro98/Decor.git
-cd ecommerce-decor-backend
+cd Decor-backend
 ```
 2. **Instale as dependências:**
 
